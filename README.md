@@ -1,14 +1,14 @@
 <p align="center">
-<a href="https://t.me/masterolic"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://t.me/1Psychokiller"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://t.me/masterolic"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Ighack-green.svg"></a>
-<a href="https://t.me/masterolic"><img title="Version" src="https://img.shields.io/badge/Version-3.1-green.svg?style=flat-square"></a>
+<a href="https://t.me/1Psychokiller"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Ighack-green.svg"></a>
+<a href="https://t.me/1Psychokiller"><img title="Version" src="https://img.shields.io/badge/Version-3.1-green.svg?style=flat-square"></a>
 <p align="center">
 
 </p>
 <p align="center">
-<a href="https://github.com/Masterolic"><img title="Github" src="https://telegra.ph//file/4f74bc31b94cf39266c31.jpg"></a>
+<a href="https://github.com/1Psychokiller"><img title="Github" src="https://telegra.ph//file/4f74bc31b94cf39266c31.jpg"></a>
 
 
 ## ABOUT TOOL :
@@ -45,7 +45,7 @@ Ighack is a bash based script which is officially made to test password strength
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/masterolic/ig-hack`
+* `git clone https://github.com/1Psychokiller/ig-hack-bf`
 * `cd $HOME`
 * `ls`
 * `cd ighack`
