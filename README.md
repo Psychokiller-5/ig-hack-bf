@@ -9,8 +9,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Masterolic"><img title="Github" src="https://telegra.ph//file/4f74bc31b94cf39266c31.jpg"></a>
-<a href="https://rebrand.ly/Masterolic"><img title="Telegram" src="https://telegra.ph//file/4f74bc31b94cf39266c31.jpg"></a>
-</p>
+
 
 ## ABOUT TOOL :
 
