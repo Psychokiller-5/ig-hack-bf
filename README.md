@@ -49,7 +49,8 @@ Ighack is a bash based script which is officially made to test password strength
 * [+] tor usage !
 * [+] Easy for Beginners !
 
-## INSTALLATION [Termux] :
+## INSTALLATION [Termux] : This tool works issue fixed...! So runing steps changed 
+
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
@@ -62,8 +63,7 @@ Ighack is a bash based script which is officially made to test password strength
 * `ls`
 * `cd ighack`
 * `ls`
-* `bash setup`
-* `bash ighack.sh`
+* `instagram.py --username (your username) --password-list (password path) `
 ```
 [+]--Now you need internet connection to continue further process...
 
