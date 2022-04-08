@@ -5,7 +5,7 @@
 <a href="https://t.me/masterolic"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Ighack-green.svg"></a>
 <a href="https://t.me/masterolic"><img title="Version" src="https://img.shields.io/badge/Version-3.1-green.svg?style=flat-square"></a>
 <p align="center">
-<a href="https://t.me/masterolic"><img title="Ighack" src="https://user-images.githubusercontent.com/49580304/96563916-5f0c9380-1277-11eb-814f-88de938d67a7.jpg"></a>
+
 </p>
 <p align="center">
 <a href="https://github.com/Masterolic"><img title="Github" src="https://telegra.ph//file/4f74bc31b94cf39266c31.jpg"></a>
