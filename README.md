@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Masterolic"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/Masterolic"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/Masterolic"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 ## ABOUT TOOL :
