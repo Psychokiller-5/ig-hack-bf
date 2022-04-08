@@ -4,8 +4,6 @@
 <p align="center">
 <a href="https://t.me/masterolic"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Ighack-green.svg"></a>
 <a href="https://t.me/masterolic"><img title="Version" src="https://img.shields.io/badge/Version-3.1-green.svg?style=flat-square"></a>
-<a href="https://t.me/masterolic"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
 <p align="center">
 <a href="https://t.me/masterolic"><img title="Ighack" src="https://user-images.githubusercontent.com/49580304/96563916-5f0c9380-1277-11eb-814f-88de938d67a7.jpg"></a>
 </p>
