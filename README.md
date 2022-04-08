@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/1Psychokiller"><img title="Github" src="https://telegra.ph//file/4f74bc31b94cf39266c31.jpg"></a>
+<a href="https://github.com/1Psychokiller"><img title="Github" src="https://telegra.ph/file/378f4d3c39a358d3cf28d.jpg"></a>
 
 
 ## ABOUT TOOL :
